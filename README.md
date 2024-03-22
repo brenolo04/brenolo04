@@ -1,7 +1,7 @@
 
 # Olá, eu sou o Breno🪳
 
-Sou estudante de Sistemas de Informação na Unifebe, começei a minha caminhada no mundo da programação aos 13 anos com a linguagem Python 🐍. Atualmente busco me qualificar no mercado de tecnologia e conseguir minha primeira oportunidade na área.
+Sou estudante de Sistemas de Informação no Instituto Federal Catarinense - Camboriú, começei a minha caminhada no mundo da programação aos 13 anos com a linguagem Python 🐍. Atualmente busco me qualificar no mercado de tecnologia e conseguir minha primeira oportunidade na área.
 
 
 
