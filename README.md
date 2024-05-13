@@ -5,11 +5,11 @@ Sou estudante de Sistemas de Informação no Instituto Federal Catarinense - Cam
 
 
 
-## Stack's que utilizo ⚙️
-
-**Front-end:** React, Styled-components
-
-**Back-end:** NodeJs, Express, Knex
+## Linguagem que estudo atualmente 
+* Java
+* Python
+## Linguagem que tenho conhecimento
+* Javascript
 
 
 ## Certificados 📜
